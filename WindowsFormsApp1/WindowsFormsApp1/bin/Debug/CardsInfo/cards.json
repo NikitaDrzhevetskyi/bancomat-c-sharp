@@ -1,0 +1,30 @@
+[
+  {
+    "CardType": 2,
+    "CardNumber": "1234567890",
+    "PhoneNumber": "+380637012889",
+    "Balance": 264.0,
+    "Password": "1234"
+  },
+  {
+    "CardType": 3,
+    "CardNumber": "6578493021",
+    "PhoneNumber": "+380660192339",
+    "Balance": 8700.0,
+    "Password": "1234"
+  },
+  {
+    "CardType": 4,
+    "CardNumber": "0192837465",
+    "PhoneNumber": "+380630145134",
+    "Balance": 1900.0,
+    "Password": "0014"
+  },
+  {
+    "CardType": 1,
+    "CardNumber": "1029384756",
+    "PhoneNumber": "+380123456789",
+    "Balance": 5510.0,
+    "Password": "1234"
+  }
+]

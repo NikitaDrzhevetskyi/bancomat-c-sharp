@@ -1,0 +1,54 @@
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStart.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCheckout.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCard.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCardConfirm.resources
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\gorob\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStart.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCheckout.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCard.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCardConfirm.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vfrov\OneDrive\Робочий стіл\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStart.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCheckout.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCard.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNoCardConfirm.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Курсовая робота\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
